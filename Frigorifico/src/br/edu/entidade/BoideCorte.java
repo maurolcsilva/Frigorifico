@@ -16,4 +16,5 @@ public class BoideCorte {
 	public void setRaca(String raca) {
 		this.raca = raca;
 	}
+	
 }
