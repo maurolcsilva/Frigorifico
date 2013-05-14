@@ -17,4 +17,7 @@ public class BoideCorte {
 		this.raca = raca;
 	}
 	
+	public boolean boiparaCorte(){
+		return (true);
+	}
 }
